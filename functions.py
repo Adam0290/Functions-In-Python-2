@@ -1,4 +1,4 @@
- balance = 1000
+balance = 1000
 
 def withdaw_funds(amount, account_number):
     global balance
